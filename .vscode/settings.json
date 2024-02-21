@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
     "sdkman"
-  ]
+  ],
+  "java.debug.settings.console": "externalTerminal",
 }
