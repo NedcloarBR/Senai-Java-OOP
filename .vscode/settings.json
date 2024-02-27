@@ -2,5 +2,12 @@
   "cSpell.words": [
     "sdkman"
   ],
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+    }
+  },
   "java.debug.settings.console": "externalTerminal",
 }
