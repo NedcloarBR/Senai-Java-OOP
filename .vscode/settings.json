@@ -1,14 +1,11 @@
 {
-  "cSpell.words": [
-    "Nedcloar",
-    "sdkman"
-  ],
-  "[java]": {
-    "editor.defaultFormatter": "redhat.java",
-    "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
-      "source.fixAll": true,
-    }
-  },
-  "java.debug.settings.console": "externalTerminal",
+	"cSpell.words": ["Nedcloar", "sdkman"],
+	"[java]": {
+		"editor.defaultFormatter": "redhat.java",
+		"editor.formatOnSave": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll": "explicit"
+		}
+	},
+	"java.debug.settings.console": "externalTerminal"
 }
