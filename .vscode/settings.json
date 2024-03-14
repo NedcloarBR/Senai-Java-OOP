@@ -1,5 +1,10 @@
 {
-	"cSpell.words": ["Nedcloar", "sdkman"],
+	"cSpell.words": [
+    "Nedcloar",
+    "operacoes",
+    "periodo",
+    "sdkman"
+  ],
 	"[java]": {
 		"editor.defaultFormatter": "redhat.java",
 		"editor.formatOnSave": true,
