@@ -1,20 +1,25 @@
 {
-	"cSpell.words": [
+  "cSpell.words": [
     "descricao",
+    "Deutrano",
+    "endereco",
     "feijao",
+    "folhapagamento",
     "mostradescricao",
     "Nedcloar",
+    "operacao",
     "operacoes",
     "periodo",
+    "potencia",
     "preco",
     "sdkman"
   ],
-	"[java]": {
-		"editor.defaultFormatter": "redhat.java",
-		"editor.formatOnSave": true,
-		"editor.codeActionsOnSave": {
-			"source.fixAll": "explicit"
-		}
-	},
-	"java.debug.settings.console": "externalTerminal"
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    }
+  },
+  "java.debug.settings.console": "externalTerminal"
 }
