@@ -29,7 +29,9 @@
     "preco",
     "Redmi",
     "Relogio",
-    "sdkman"
+    "sdkman",
+    "Volks",
+    "Wagen"
   ],
   "[java]": {
     "editor.defaultFormatter": "redhat.java",
